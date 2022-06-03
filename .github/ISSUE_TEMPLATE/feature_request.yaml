@@ -1,10 +1,10 @@
 name: Feature Request 💡
 description:
   Suggest an new idea for the design system.
-title: 'USWDS - [YOUR TITLE]: Brief description'
+title: 'USWDS - Feature request: [YOUR TITLE]'
 assignees:
-  - brunerae
-labels: ['Type: Feature request']
+  - amyleadem
+labels: ['Bug']
 body:
   - type: markdown
     attributes:
@@ -47,3 +47,5 @@ body:
             I checked the [current
             issues](https://github.com/uswds/uswds/issues) for
             duplicate requests
+    validations:
+      required: true
