@@ -44,6 +44,10 @@ body:
       description: Please confirm the following
       options:
         - label:
+            I agree to follow this project's [Code of
+            Conduct](https://designsystem.digital.gov/about/community/#community-conduct)
+          required: true
+        - label:
             I checked the [current
             issues](https://github.com/uswds/uswds/issues) for
             duplicate requests
