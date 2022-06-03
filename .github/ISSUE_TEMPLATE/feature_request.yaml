@@ -5,6 +5,7 @@ title: 'USWDS - Feature request: [YOUR TITLE]'
 assignees:
   - amyleadem
 labels: ['wontfix']
+project: ['Test project']
 body:
   - type: markdown
     attributes:
