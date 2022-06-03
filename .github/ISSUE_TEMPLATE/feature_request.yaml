@@ -4,7 +4,7 @@ description:
 title: 'USWDS - Feature request: [YOUR TITLE]'
 assignees:
   - amyleadem
-labels: ['Bug']
+labels: ['wontfix']
 body:
   - type: markdown
     attributes:
