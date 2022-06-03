@@ -4,8 +4,7 @@ description:
 title: 'USWDS - Feature request: [YOUR TITLE]'
 assignees:
   - amyleadem
-labels: ['wontfix']
-project: ['Test project']
+labels: ['wontfix', 'bug']
 body:
   - type: markdown
     attributes:
@@ -48,5 +47,4 @@ body:
             I checked the [current
             issues](https://github.com/uswds/uswds/issues) for
             duplicate requests
-    validations:
-      required: true
+          required: true
