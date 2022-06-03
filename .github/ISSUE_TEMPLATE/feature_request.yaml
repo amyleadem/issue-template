@@ -3,8 +3,8 @@ description:
   Suggest an new idea for the design system. If this doesn’t look right, [choose a different type](https://github.com/amyleadem/issue-template/issues/new/choose).
 title: 'USWDS - [YOUR TITLE]: Brief description'
 assignees:
-  - thisisdano, brunerae, mejiaj
-labels: ['Feature request']
+  - thisisdano,brunerae
+labels: ['Type: Feature request', 'Needs: Grooming']
 body:
   - type: markdown
     attributes:
@@ -12,29 +12,29 @@ body:
   - type: textarea
     id: problem
     attributes:
-      label: Is your feature request related to a problem? Please describe.
+      label: "Is your feature request related to a problem? Please describe."
       description: "Provide a clear and concise description of what the problem is. Ex. I'm always frustrated when [...]"
     validations:
       required: true
   - type: textarea
     id: solution
     attributes:
-      label: Describe the solution you'd like
+      label: "Describe the solution you'd like"
       description: "Provide a clear and concise description of what you want to happen."
     validations:
       required: true
   - type: textarea
     id: alternatives
     attributes:
-      label: Describe alternatives you've considered
+      label: "Describe alternatives you've considered"
       description: "A clear and concise description of any alternative solutions or features you've considered."
     validations:
       required: false
   - type: textarea
     id: context
     attributes:
-      label: Additional context
-      description: Add any other context or screenshots about the feature request here.
+      label: "Additional context"
+      description: "Add any other context or screenshots about the feature request here."
     validations:
       required: false
    - type: checkboxes
