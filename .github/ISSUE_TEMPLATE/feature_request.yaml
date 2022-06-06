@@ -1,8 +1,8 @@
 name: Feature Request 💡
 description:
   Suggest a new idea for the design system.
-title: 'USWDS - Feature request: [YOUR TITLE]'
-labels: ['wontfix', 'bug']
+title: 'USWDS: [YOUR TITLE]'
+labels: ['enhancement']
 body:
   - type: markdown
     attributes:
