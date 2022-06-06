@@ -12,40 +12,33 @@ body:
 - type: textarea
   attributes:
     label: Steps to reproduce the bug
-    description: Steps to reproduce the behavior.
     placeholder: |
       1. Go to '...'
       2. Click on '....'
       3. Scroll down to '....'
       4. See error...
   validations:
-    required: false
-- type: textarea
-  attributes:
-    label: Current Behavior
-    description: A concise description of what you're experiencing.
-  validations:
-    required: false
+    required: true
 - type: textarea
   attributes:
     label: Expected Behavior
-    description: A concise description of what you expected to happen.
+    description: Add a clear and concise description of what you expected to happen.
   validations:
-    required: false
-
+    required: true
 - type: textarea
   attributes:
-    label: Environment
-    description: |
-      examples:
-        - **OS**: Ubuntu 20.04
-        - **Node**: 13.14.0
-        - **npm**: 7.6.3
-    value: |
-        - OS:
-        - Node:
-        - npm:
-    render: markdown
+    label: Screenshots
+    description: Add screenshots to help provide context, if applicable.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Steps to reproduce the bug
+    placeholder: |
+      - USWDS Version
+      - Device
+      - Operating System
+      - Browser and version
   validations:
     required: false
 - type: textarea
