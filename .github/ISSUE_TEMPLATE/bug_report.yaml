@@ -18,11 +18,9 @@ body:
     id: reproduce
     attributes:
       label: "Steps to reproduce the bug"
-      description:
-      1. Go to '...'\
-      2. Click on '....'\
-      3. Scroll down to '....'\
-      4. See error\
+      description: |
+      Hello
+      World
     validations:
       required: true
   - type: textarea
