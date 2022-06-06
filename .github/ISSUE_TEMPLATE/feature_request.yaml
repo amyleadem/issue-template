@@ -45,10 +45,10 @@ body:
       options:
         - label:
             I agree to follow this project's [Code of
-            Conduct](https://designsystem.digital.gov/about/community/#community-conduct)
+            Conduct](https://designsystem.digital.gov/about/community/#community-conduct).
           required: true
         - label:
             I checked the [current
-            issues](https://github.com/uswds/uswds/issues) for
-            duplicate requests
+            issues](https://github.com/uswds/uswds/issues?q=is%3Aissue+is%3Aopen+label%3A%22Type%3A+Feature+Request%22) for
+            duplicate feature requests.
           required: true
