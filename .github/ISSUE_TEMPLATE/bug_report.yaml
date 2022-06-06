@@ -18,7 +18,11 @@ body:
     id: reproduce
     attributes:
       label: "Steps to reproduce the bug"
-      description: "1. Go to '...' 2. Click on '....' 3. Scroll down to '....' 4. See error"
+      description: |
+      "1. Go to '...'
+      2. Click on '....'
+      3. Scroll down to '....'
+      4. See error"
     validations:
       required: true
   - type: textarea
@@ -39,11 +43,10 @@ body:
     id: system
     attributes:
       label: System setup
-      description: |
-      - **USWDS version:**
-      - **Device:**
-      - **Operating system:**
-      - **Browser and version:**
+      description: "Include: USWDS version,
+      Device,
+      Operating system,
+      Browser and version"
     validations:
       required: false
   - type: checkboxes
