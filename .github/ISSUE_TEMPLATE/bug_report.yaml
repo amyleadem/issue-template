@@ -40,7 +40,11 @@ body:
     id: system
     attributes:
       label: System setup
-      description: Provide your system details. Include USWDS version, device, operating system, and browser with version.
+      description: |
+        - USWDS version:
+        - Device:
+        - Operating system:
+        - Browser and version:
       placeholder: |
         - USWDS version:
         - Device:
