@@ -1,7 +1,7 @@
 name: Bug report 💡
 description:
-  Suggest a new idea for the design system.
-title: 'USWDS - Feature request: [YOUR TITLE]'
+  Add a clear and concise description of the bug.
+title: 'USWDS - Bug report: [YOUR TITLE]'
 labels: ['wontfix', 'bug']
 body:
   - type: markdown
@@ -18,12 +18,7 @@ body:
     id: reproduce
     attributes:
       label: "Steps to reproduce the bug"
-      description: |
-      Example:
-      1. Go to '...'
-      2. Click on '....'
-      3. Scroll down to '....'
-      4. See error
+      description: "1. Go to '...' 2. Click on '....' 3. Scroll down to '....' 4. See error"
     validations:
       required: true
   - type: textarea
@@ -63,6 +58,6 @@ body:
           required: true
         - label:
             I checked the [current
-            issues](https://github.com/uswds/uswds/issues?q=is%3Aissue+is%3Aopen+label%3A%22Type%3A+Feature+Request%22) for
+            issues](https://github.com/uswds/uswds/issues?q=is%3Aissue+is%3Aopen+label%3A%22Type%3A+Bug%22) for
             duplicate feature requests.
           required: true
