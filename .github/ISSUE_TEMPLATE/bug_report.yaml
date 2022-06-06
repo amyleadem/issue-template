@@ -1,4 +1,4 @@
-name: Bug report 🐞
+name: Bug report 💡
 description:
   Add a clear and concise description of the bug.
 title: 'USWDS - Bug report: [YOUR TITLE]'
@@ -6,7 +6,7 @@ labels: ['wontfix', 'bug']
 body:
   - type: markdown
     attributes:
-      value: '## Bug Report'
+      value: '## Bug Report 💡'
   - type: textarea
     id: problem
     attributes:
@@ -18,9 +18,11 @@ body:
     id: reproduce
     attributes:
       label: "Steps to reproduce the bug"
-      description: |
-      Hello
-      World
+      placeholder: |
+      1. In this environment...
+      2. With this config...
+      3. Run '...'
+      4. See error...
     validations:
       required: true
   - type: textarea
@@ -41,10 +43,12 @@ body:
     id: system
     attributes:
       label: System setup
-      description: "Include: USWDS version,
-      Device,
-      Operating system,
-      Browser and version"
+      description: "Include: USWDS version, Device, Operating system, Browser and version"
+      placeholder: |
+      1. In this environment...
+      2. With this config...
+      3. Run '...'
+      4. See error...
     validations:
       required: false
   - type: checkboxes
