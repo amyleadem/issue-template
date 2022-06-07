@@ -1,7 +1,7 @@
 name: Bug Report 🐞
 description: Report a bug and help USWDS improve.
 title: "USWDS - Bug: [YOUR TITLE]"
-labels: ['bug']
+labels: ['Type: Bug','Status: Triage','Needs: Confirmation']
 body:
   - type: textarea
     id: problem
