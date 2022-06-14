@@ -37,6 +37,13 @@ body:
     validations:
       required: false
   - type: textarea
+    id: code
+    attributes:
+      label: Code snippets
+      description: Add relevant code snippets to help provide context, if applicable.
+    validations:
+      required: false
+  - type: textarea
     id: system
     attributes:
       label: System setup
