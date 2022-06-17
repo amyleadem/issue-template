@@ -1,6 +1,6 @@
 name: Bug Report 🐞
-description: Report a bug and help improve our documentation.
-title: "USWDS-Site - Bug: [YOUR TITLE]"
+description: Report a bug and help USWDS improve.
+title: "USWDS - Bug: [YOUR TITLE]"
 labels: ['Type: Bug','Status: Triage','Needs: Confirmation']
 body:
   - type: textarea
