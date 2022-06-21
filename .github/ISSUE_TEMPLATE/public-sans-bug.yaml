@@ -1,6 +1,6 @@
-name: USWDS Bug Report 🐞
+name: Public Sans Bug Report 🐞
 description: Report a bug and help USWDS improve.
-title: "USWDS - Bug: [YOUR TITLE]"
+title: "Public Sans - Bug: [YOUR TITLE]"
 labels: ['Type: Bug','Status: Triage','Needs: Confirmation']
 body:
   - type: textarea
@@ -74,6 +74,6 @@ body:
           required: true
         - label:
             I checked the [current
-              issues](https://github.com/uswds/uswds/issues?q=is%3Aissue+is%3Aopen+label%3A%22Type%3A+Bug%22) for
+              issues](https://github.com/uswds/public-sans/issues) for
               duplicate bug reports.
           required: true
