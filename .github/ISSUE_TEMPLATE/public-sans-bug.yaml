@@ -49,7 +49,7 @@ body:
       label: System setup
       description: Provide your system details. Be sure to include your USWDS version, device, operating system, and browser (with version).
       placeholder: |
-        - USWDS version:
+        - Public Sans version:
         - Device:
         - Operating system:
         - Browser and version:
