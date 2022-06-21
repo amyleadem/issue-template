@@ -46,6 +46,6 @@ body:
           required: true
         - label:
             I checked the [current
-            issues](https://github.com/uswds/public-sans/issues) for
+            issues](https://github.com/uswds/uswds-tutorial/issues) for
             duplicate feature requests.
           required: true

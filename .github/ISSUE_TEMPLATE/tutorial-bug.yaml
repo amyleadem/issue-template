@@ -49,7 +49,7 @@ body:
       label: System setup
       description: Provide your system details. Be sure to include your USWDS version, device, operating system, and browser (with version).
       placeholder: |
-        - Public Sans version:
+        - USWDS version:
         - Device:
         - Operating system:
         - Browser and version:
@@ -74,6 +74,6 @@ body:
           required: true
         - label:
             I checked the [current
-              issues](https://github.com/uswds/public-sans/issues) for
+              issues](https://github.com/uswds/uswds-tutorial/issues) for
               duplicate bug reports.
           required: true
