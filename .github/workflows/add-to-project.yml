@@ -1,4 +1,4 @@
-name: Add all issues to project
+name: Add all issues to project board
 
 on:
   issues:
