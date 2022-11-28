@@ -4,7 +4,6 @@ on:
   issues:
     types:
       - opened
-      
 
 jobs:
   add-to-project:
@@ -15,3 +14,4 @@ jobs:
         with:
           project-url: https://github.com/users/amyleadem/projects/1
           github-token: ${{ secrets.ACCESS_TOKEN }}
+          
