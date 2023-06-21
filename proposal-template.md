@@ -33,25 +33,28 @@ _Provide a short paragraph or bulleted list that gives an overview of the propos
 ## Motivation*
 _Explain why we should include this component in USWDS._
 - _What user need does this component address?_
+- _What problem does this component solve?_
+<!--
 - _What is the impact of _not_ including this component in the Design System?_
+-->
 
 ## Proposed solution*
 _Thoroughly describe the proposed component. Use the following sections to add detail:_
 
-### Functionality** 
-_Describe the component's core functionality. If the component is dynamic, describe the interactive states._
+### Functionality* 
+_Describe the component's core functionality. If the component is dynamic, describe its interactive states._
 
 ### Diagrams*
-_Add diagrams, images, and/or wireframes that visually demonstrate the proposed component._
+_Add diagrams, images, and/or wireframes that visually demonstrate this component._
 
 ### Variants*
-_If applicable, describe the proposed variants of this component._
+_Describe any variants needed for this component._
 
 <!--### Settings*
 _Describe which elements should be customizable with theme settings._-->
 
 ### Accessibility
-_Identify any accessibility considerations specific to this component._
+_Identify any accessibility considerations._
 - _Will the component be compatible with assistive technologies?_
 <!-- 
 Consider the following:
@@ -70,42 +73,41 @@ _Define what is in and out of scope for this proposal._
 -->
 
 ### Implementation plan
-_Add details about how this component should be implemented._ 
+_Add details about how this plan should be implemented._ 
 - _Will the component be implemented in phases?_ 
 - _Are there any potential blockers?_  
-- _Are there any dependencies that must be resolved before moving forward?_
+- _Are there any dependencies?_
 
 ### Testing plan
-_Explain how the component will be tested._ 
+_Explain how to test this component._ 
 - _What kinds of tests will need to be performed?_
 - _Which elements and/or interactions will need to be tested?_ 
-- _Are any special audiences that should be included in user testing?_
+- _Are there any specific audiences that should be included in user testing?_
 
 ### Documentation
-_Identify any documentation requirements._
+_Identify any documentation updates._
 <!-- Note: all new components will need a component page. -->
 
 ## Supporting evidence
 _Provide links to any compelling research or other findings that support this proposal._
 
-## Potential drawbacks
+## Potential drawbacks and alternatives considered
 _Share why we should NOT pursue this proposal._ 
 - _How does the estimated level of effort compare with the expected benefit?_ 
 - _Are there any audiences that might find it difficult to use this component?_
 - _Are there any complications with using assistive technologies?_
 
-## Alternatives considered
-_Explain which alternatives you have considered and explain their advantages and disadvantages_
-- _Why did you chose the proposed solution over other possibilities?_
+_Explain which alternatives you have considered and explain their advantages and disadvantages._
+- _Why did you choose the proposed solution over other possibilities?_
 
 ## Unknowns
 _Identify any questions that need to be answered before approving this proposal._
 
 ## References (Optional)
-_List any information sources used to create this proposal._
+_List any resources used to help create this proposal._
 
-## Available resources (Optional)
-_Tag any volunteers who are willing to help design, develop, or test this component._
+## Community support (Optional)
+_If there are any volunteers who are willing to help design, develop, or test this component, tag them here._
 
 ## Endorsements (Optional)
 _If there is significant support from a given agency or group, include their name(s) here and tag any stakeholders._
