@@ -52,7 +52,7 @@ _Describe which elements should be customizable with theme settings._-->
 
 ### Accessibility
 _Identify any accessibility considerations specific to this component._
-- _Is the component compatible with assistive technologies?_
+- _Will the component be compatible with assistive technologies?_
 <!-- 
 Consider the following:
 - Keyboard-only interaction
