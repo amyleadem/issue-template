@@ -32,83 +32,70 @@ _Provide a short paragraph or bulleted list that gives an overview of the propos
 
 ## Motivation*
 _Explain why we should include this component in USWDS._
-
-<!--
 - _What user need does this component address?_
 - _What is the impact of _not_ including this component in the Design System?_
--->
 
 ## Proposed solution*
-_Thoroughly describe the proposed component. Make sure you include the following information:_
+_Thoroughly describe the proposed component. Use the following sections to add detail:_
+
+### Core functionality** 
+_Describe the component's core functionality. If the component is dynamic, describe the interactive states._
 
 ### Diagrams*
-_Add diagrams, images, and/or wireframes that illustrate the proposed component._
-
-### Interactive states*
-_If the component is dynamic, describe the interactive states._
+_Add diagrams, images, and/or wireframes that visually demonstrate the proposed component._
 
 ### Variants*
-_If applicable, describe the variants for this component._
+_If applicable, describe the proposed variants of this component._
 
-### Settings*
-_Describe which elements should be customizable with theme settings._
+<!--### Settings*
+_Describe which elements should be customizable with theme settings._-->
+
+### Accessibility
+_Identify any accessibility considerations specific to this component._
+- _Is the component compatible with assistive technologies?_
+<!-- Consider how the component will interact with keyboard-only interaction, screen readers, voice command, high contrast mode, and zoom magnification) -->
+- _Are there any audiences that will need special accommodation?_
+<!--Explain how this component will accommodate these needs.-->
+
+<!--
+### Scope
+_Define what is in and out of scope for this proposal._
+-->
 
 ### Implementation plan
 _Add details about how this component should be implemented._ 
-
-<!--
-- _Describe if the component should be implemented in phases._ 
-- _Identify any potential blockers._  
-- _Identify any dependencies._
--->
-
-### Scope
-_Define what is in and out of scope for this proposal._
-
-### Accessibility
-_Identify any accessibility considerations._
-
-#### Assistive technologies
-_Explain how the component will interact with assistive technologies, including screen readers, voice command, high contrast mode, and zoom magnification._ 
-
-#### Special audiences
-_Identify if there are any audiences that will need special accommodation. Explain how this component will accommodate these needs._  
+- _Will the component be implemented in phases?_ 
+- _Are there any potential blockers?_  
+- _Are there any dependencies that must be resolved before moving forward?_
 
 ### Testing plan
 _Explain how the component will be tested._ 
-
-<!--
-- _Explain the types of tests that will need to be performed._
-- _Identify which elements and/or interactions will need to be tested._ 
-- _Consider if there are any special audiences that should be included in user testing._
--->
+- _What kinds of tests will need to be performed?_
+- _Which elements and/or interactions will need to be tested?_ 
+- _Are any special audiences that should be included in user testing?_
 
 ### Documentation
 _Identify any documentation requirements._
-
-<!-- 
-Note: all new components will need a component page.
--->
+<!-- Note: all new components will need a component page. -->
 
 ## Supporting evidence
 _Provide links to any compelling research or other findings that support this proposal._
 
-## Potential drawbacks and alternatives considered
-_Share why we should _not_ pursue this proposal._ 
+## Potential drawbacks
+_Share why we should NOT pursue this proposal._ 
+- _How does the estimated level of effort compare with the expected benefit?_ 
+- _Are there any audiences that might find it difficult to use this component?_
+- _Are there any complications with using assistive technologies?_
 
-<!--
-- _Compare the estimated level of effort with the expected benefit._ 
-- _Identify any audiences that might find it difficult to use this component._
-- _Identify if there will be any complications with using assistive technologies (screen readers, voice command, zoom magnification, etc) on this component._
-- _Share which alternatives you have considered and explain their advantages and disadvantages._
-- _Explain why you chose the proposed solution over other possibilities._
--->
+## Alternatives considered
+_Explain which alternatives you have considered and explain their advantages and disadvantages_
+- _Why did you chose the proposed solution over other possibilities?_
 
 ## Unknowns
 _Identify any questions that need to be answered before approving this proposal._
 
 ## References (Optional)
-_List the information sources used to create this proposal._
+_List any information sources used to create this proposal._
 
 ## Available resources (Optional)
 _Tag any volunteers who are willing to help design, develop, or test this component._
