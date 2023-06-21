@@ -38,7 +38,7 @@ _Explain why we should include this component in USWDS._
 ## Proposed solution*
 _Thoroughly describe the proposed component. Use the following sections to add detail:_
 
-### Core functionality** 
+### Functionality** 
 _Describe the component's core functionality. If the component is dynamic, describe the interactive states._
 
 ### Diagrams*
@@ -53,8 +53,15 @@ _Describe which elements should be customizable with theme settings._-->
 ### Accessibility
 _Identify any accessibility considerations specific to this component._
 - _Is the component compatible with assistive technologies?_
-<!-- Consider how the component will interact with keyboard-only interaction, screen readers, voice command, high contrast mode, and zoom magnification) -->
-- _Are there any audiences that will need special accommodation?_
+<!-- 
+Consider the following:
+- Keyboard-only interaction
+- Screen readers
+- Voice command
+- High-contrast mode
+- Zoom magnification 
+-->
+- _Are there any audiences that might struggle with this component?_
 <!--Explain how this component will accommodate these needs.-->
 
 <!--
