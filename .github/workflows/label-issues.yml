@@ -17,5 +17,9 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              labels: ["Status: triage", "good first issue"]
+              labels: [
+                "Status: Triage", 
+                "Created by a blank issue template",
+                "Needs: Confirmation"
+              ]
             })
